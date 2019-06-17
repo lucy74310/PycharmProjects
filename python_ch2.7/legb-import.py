@@ -1,0 +1,4 @@
+import legb
+
+legb.f()
+
