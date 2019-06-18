@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13821723-e2a9-49e8-aa9a-b123b74e26f8" name="Default Changelist" comment="" />
+    <list default="true" id="13821723-e2a9-49e8-aa9a-b123b74e26f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../test-project/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-project/.idea/test-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-project/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pygame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pygame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_ch2.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_ch2.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_ch2.6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_ch2.6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_ch2.7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_ch2.7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_ch2.8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_ch2.8/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +306,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32968238" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
