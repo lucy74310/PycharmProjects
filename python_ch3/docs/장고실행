@@ -24,8 +24,10 @@
 
 4. 디렉토리 정리
     -> pycharm 프로젝트와 django 프로젝트의 디렉토리 일치시키는 작업
+
     python_ch3
         |-python_ch3
+            |-python_ch3
     python_ch3\python_ch3 아래 파일들을 python_ch3 으로 옮김
 
 5. psycopg2(postgres db lib) 설치
@@ -36,7 +38,7 @@
     1) TIME_ZONE = 'Asia/Seoul'
     2) DATABASES = {
         'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
+            'ENGINE': 'django.db.backends.postgresql',
             'NAME': 'djdb',
             'USER': 'djdb',
             'PASSWORD': 'djdb',
@@ -53,7 +55,7 @@
         ]
         python_ch3
             |
-            |------- templates (생성)
+            |------- template (생성)
 
 
 7. 장고 프로젝트의 기본 관리 어플리케이션이 사용하는 테이블을 생성
