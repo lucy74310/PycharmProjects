@@ -10,7 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/python_pgsql/venv" />
       <excludeFolder url="file://$MODULE_DIR$/test-project/venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (ptyhon_weblib)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (python_ch3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
