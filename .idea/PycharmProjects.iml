@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/django_test/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/pysite/venv" />
       <excludeFolder url="file://$MODULE_DIR$/python_ch2.8/venv" />
       <excludeFolder url="file://$MODULE_DIR$/python_ch3/venv" />
       <excludeFolder url="file://$MODULE_DIR$/python_crawler/venv" />
