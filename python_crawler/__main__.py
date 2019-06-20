@@ -132,6 +132,8 @@ def ex01():
         for tag_tr in tags_tr:
             # tag 다 빼고 string 만
             strings = list(tag_tr.strings)
+            print(tag_tr)
+            print(strings)
             name = strings[1]
             address = strings[3]
             sidogu = address.split()[:2]
@@ -231,6 +233,6 @@ if __name__ == '__main__':
     # crawling_pelicana()
 
     #nene 과제
-    # ex01()
+    ex01()
     # crawling_kyochon()
-    crawling_goobne()
+    # crawling_goobne()
